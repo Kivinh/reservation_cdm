@@ -280,7 +280,7 @@ int main()
 											 }
 											 else
 											 {
-											 	printf("Saisie erronee, veuillez recommencer\n") ; 
+											 	printf("Saisie erronee, veuillez recommencer\n") ; // test 2
 											 	printf("\n")                                     ;
 											 }
 										break ;																			
