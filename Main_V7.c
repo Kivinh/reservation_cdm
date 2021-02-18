@@ -280,11 +280,7 @@ int main()
 											 }
 											 else
 											 {
-<<<<<<< Updated upstream
-											 	printf("Saisie erronee, veuillez recommencer\n") ; // test 2
-=======
 											 	printf("Saisie erronee, veuillez recommencer\n") ; // comentaire 67 
->>>>>>> Stashed changes
 											 	printf("\n")                                     ;
 											 }
 										break ;																			
