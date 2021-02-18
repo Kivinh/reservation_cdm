@@ -280,13 +280,13 @@ int main()
 											 }
 											 else
 											 {
-											 	printf("Saisie erronee, veuillez recommencer\n") ;
+											 	printf("Saisie erronee, veuillez recommencer\n") ; // comentaire 67 
 											 	printf("\n")                                     ;
 											 }
 										break ;																			
 									case 0 : quitter_espace_client() ;
 										break ;
-									default :	printf("Saisie erronee, veuillez recommencer\n") ;
+									default :	printf("Saisie erronee, veuillez recommencer\n") ; // default test
 												printf("\n")                                     ;
 										break ;
 								}
